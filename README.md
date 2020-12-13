@@ -5,15 +5,15 @@
 
 ### What I'm up to:
 
-🔬 I’m currently working on improving Bookmooch Go by building up test coverage ✅
+🔬 I’m currently working on [Bookmooch Go](https://github.com/bmcglauser/bookmooch-go) by building up test coverage
 
-🌱 I’m currently learning Ruby on Rails ♦️
-  
-💬 Ask me about being a theatre performer in NYC 🕺🏻
+🌱 I’m currently learning Ruby on Rails
+ 
+💬 Ask me about being a theatre performer in NYC
 
-😄 Pronouns: He/him ✌🏻
+😄 Pronouns: He/him
 
-⚡ Fun fact: Since "octopus" is of Greek origin, the plural should be "octopedes" 🐙 🐙 🐙
+⚡ Fun fact: [Octopuses'](https://qz.com/1446229/let-us-finally-resolve-the-octopuses-v-octopi-debate/) arms can make decisions and interact together [on their own](https://en.wikipedia.org/wiki/Octopus#Nervous_system_and_senses) 
 
 ### 🛠 My Tools:
 <code><img height="40" width="40" alt="TypeScript" src="https://user-images.githubusercontent.com/25126281/102015986-856e1d00-3d56-11eb-8439-408936a1dfa5.png"></code>
