@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Brett, a full-stack developer in New York
 
 
-<img align="right" alt="illustration of web developer with laptop" width="400" src="https://user-images.githubusercontent.com/25126281/102016596-910f1300-3d59-11eb-8950-8e84b44a913e.png" />
+<img align="right" alt="illustration of cluttered desk" width="250" src="https://user-images.githubusercontent.com/25126281/102016769-712c1f00-3d5a-11eb-80db-001c4e7e806e.png" />
 
 ### What I'm up to:
 
