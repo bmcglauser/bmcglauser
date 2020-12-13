@@ -5,7 +5,7 @@
 
 ### What I'm up to:
 
-🔬 I’m currently working on [Bookmooch Go](https://github.com/bmcglauser/bookmooch-go) by building up test coverage
+🔬 I’m currently working on test coverage for [Bookmooch Go](https://github.com/bmcglauser/bookmooch-go)
 
 🌱 I’m currently learning Ruby on Rails
  
