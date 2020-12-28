@@ -7,7 +7,7 @@
 
 🔬 I’m currently working on test coverage for [Bookmooch Go](https://github.com/bmcglauser/bookmooch-go)
 
-🌱 I’m currently learning Ruby on Rails
+🌱 I’m currently working on Kent C Dodd's Testing JavaScript course, and a course on Containers from Frontend Masters
  
 💬 Ask me about being a theatre performer in NYC
 
