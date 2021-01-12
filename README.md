@@ -5,9 +5,9 @@
 
 ### What I'm up to:
 
-🔬 I’m currently working on test coverage for [Bookmooch Go](https://github.com/bmcglauser/bookmooch-go)
+🔬 I’m currently working on containerizing [ChitChat](https://github.com/mhyusuf/chit-chat) with seeded mock data
 
-🌱 I’m currently working on Kent C Dodd's Testing JavaScript course, and a course on Containers from Frontend Masters
+🌱 I’m currently working through Kent C Dodd's Testing JavaScript course
  
 💬 Ask me about being a theatre performer in NYC
 
