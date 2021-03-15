@@ -3,8 +3,6 @@
 
 <img align="right" alt="illustration of cluttered desk" width="250" src="https://user-images.githubusercontent.com/25126281/102016769-712c1f00-3d5a-11eb-80db-001c4e7e806e.png" />
 
-### What I'm up to:
-
 🔬 I’m a new employee at the American Physical Society as a Software Developer
 
 🌱 I’m currently working through Functional Architecture Patterns in JS on Frontend Masters
