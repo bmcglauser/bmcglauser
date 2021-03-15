@@ -5,7 +5,7 @@
 
 🔬 I’m a new employee at the American Physical Society as a Software Developer
 
-🌱 I’m currently working through Functional Architecture Patterns in JS on Frontend Masters
+🌱 I’m working on Functional Architecture Patterns in JS on Frontend Masters
 
 👥 My dev heros include Sarah Drasner, Kent C Dodds, Scott Moss & Brian Lonsdorf
  
