@@ -1,13 +1,13 @@
-### Hi there 👋 I'm Brett, a full-stack developer in New York
+### Hi there 👋 I'm Brett, a full-stack developer in New York City
 
 
 <img align="right" alt="illustration of cluttered desk" width="250" src="https://user-images.githubusercontent.com/25126281/102016769-712c1f00-3d5a-11eb-80db-001c4e7e806e.png" />
 
 🔬 I’m a new employee at the American Physical Society as a Software Developer
 
-🌱 I’m working improving Data Visualization skills with D3
+🌱 I’m currently learning Haskell, and getting acquainted with the AWS suite
 
-👥 My dev heros include Sarah Drasner, Kent C Dodds, Scott Moss & Brian Lonsdorf
+👥 My dev heros include Kent C Dodds, Scott Moss & Brian Lonsdorf
  
 💬 Ask me about being a theatre performer in NYC
 
