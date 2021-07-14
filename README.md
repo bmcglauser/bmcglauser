@@ -23,6 +23,6 @@
 <code><img height="40" width="40" alt="Jest" src="https://user-images.githubusercontent.com/25126281/102015982-84d58680-3d56-11eb-8158-93beae9e4fb1.png"></code>
 <code><img height="40" width="40" alt="GraphQL" src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png"></code>
 <code><img height="40" width="40" alt="nodeJs" src="https://user-images.githubusercontent.com/25126281/102016183-8fdce680-3d57-11eb-94bf-2e142c27ea7d.jpg"></code>
+<code><img height="40" width="40" alt="PostgreSQL" src="https://user-images.githubusercontent.com/25126281/125634692-9329f160-ffa6-41b2-8cab-ea4f85273e0a.png"></code>
 <code><img height="40" width="40" alt="PostgreSQL" src="https://user-images.githubusercontent.com/25126281/102016127-370d4e00-3d57-11eb-9007-f025f08a2473.png"></code>
-
 
