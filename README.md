@@ -3,11 +3,9 @@
 
 <img align="right" alt="illustration of cluttered desk" width="250" src="https://user-images.githubusercontent.com/25126281/102016769-712c1f00-3d5a-11eb-80db-001c4e7e806e.png" />
 
-🔬 I’m a new employee at the American Physical Society as a Software Developer
+🔬 I’m a Software Developer at the American Physical Society
 
-🌱 I’m currently going back to basics and dipping my toes into C and C++
-
-👥 My dev heros include Kent C Dodds, Scott Moss & Brian Lonsdorf
+🌱 I’m currently rebuilding a personal project with Dart and Flutter, for release to App Store in 2022
  
 💬 Ask me about being a theatre performer in NYC
 
@@ -25,4 +23,5 @@
 <code><img height="40" width="40" alt="NodeJS" src="https://user-images.githubusercontent.com/25126281/102016183-8fdce680-3d57-11eb-94bf-2e142c27ea7d.jpg"></code>
 <code><img height="40" width="40" alt="AWS" src="https://user-images.githubusercontent.com/25126281/125634692-9329f160-ffa6-41b2-8cab-ea4f85273e0a.png"></code>
 <code><img height="40" width="40" alt="PostgreSQL" src="https://user-images.githubusercontent.com/25126281/102016127-370d4e00-3d57-11eb-9007-f025f08a2473.png"></code>
+<code><img height="40" width="40" alt="Flutter" src="https://user-images.githubusercontent.com/25126281/139685812-17ed9efa-75c4-4e99-8b7d-a075747f670e.png"></code>
 
