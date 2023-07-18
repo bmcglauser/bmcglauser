@@ -5,9 +5,7 @@
 
 🔬 I’m a Software Developer at the American Physical Society
 
-📱 I just released a personal project on the Apple App Store - search for Ketchup: Media Watchlist.
-
-🌱 I built Ketchup with Flutter, so I will also be releasing it for Android before the end of the year
+📱 Last year I released a personal project using Flutter on the Apple App Store as well as Google Play Store for Android - search for Ketchup: Media Watchlist.
  
 💬 Ask me about being a theatre performer in NYC
 
