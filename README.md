@@ -13,6 +13,16 @@
 
 ⚡ Fun fact: [Octopuses'](https://qz.com/1446229/let-us-finally-resolve-the-octopuses-v-octopi-debate/) arms can make decisions and interact together [on their own](https://en.wikipedia.org/wiki/Octopus#Nervous_system_and_senses) 
 
+📋 Past side projects made for friends and family include:
+- An SMS-integrated to-do app with persistent reminders,
+- Solver app for NYT's word game "Spelling Bee",
+- Personal cannabis diary/encyclopedia,
+- Companion app to a live Easter egg hunt,
+- Searchable photo archive for artists' reference photos,
+- Interactive Bingo game board for my brother's bachelor party,
+- Foreign language "reader" assistant with selective translation,
+- Instagram post generator for small business owners' live sales.
+
 ### 🛠 My Tools:
 <code><img height="40" width="40" alt="TypeScript" src="https://user-images.githubusercontent.com/25126281/102015986-856e1d00-3d56-11eb-8439-408936a1dfa5.png"></code>
 <code><img height="40" alt="NextJS" src="https://user-images.githubusercontent.com/25126281/120037434-a3130400-bfcf-11eb-87e8-8aa944b852af.png"></code>
