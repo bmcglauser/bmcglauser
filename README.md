@@ -5,7 +5,7 @@
 
 🔬 I’m a Software Developer at the American Physical Society
 
-📱 Last year I released a personal project using Flutter on the Apple App Store as well as Google Play Store for Android - search for Ketchup: Media Watchlist.
+📱 Last year I released a personal project on the Apple App Store - search for Ketchup: Media Watchlist
  
 💬 Ask me about being a theatre performer in NYC
 
@@ -21,7 +21,8 @@
 - Searchable photo archive for artists' reference photos,
 - Interactive Bingo game board for my brother's bachelor party,
 - Foreign language "reader" assistant with selective translation,
-- Instagram post generator for small business owners' live sales.
+- Instagram post generator for small business owner's live sales,
+- "Learn Your Lines" memorization assistant
 
 ### 🛠 My Tools:
 <code><img height="40" width="40" alt="TypeScript" src="https://user-images.githubusercontent.com/25126281/102015986-856e1d00-3d56-11eb-8439-408936a1dfa5.png"></code>
@@ -33,5 +34,3 @@
 <code><img height="40" width="40" alt="NodeJS" src="https://user-images.githubusercontent.com/25126281/102016183-8fdce680-3d57-11eb-94bf-2e142c27ea7d.jpg"></code>
 <code><img height="40" width="40" alt="AWS" src="https://user-images.githubusercontent.com/25126281/125634692-9329f160-ffa6-41b2-8cab-ea4f85273e0a.png"></code>
 <code><img height="40" width="40" alt="PostgreSQL" src="https://user-images.githubusercontent.com/25126281/102016127-370d4e00-3d57-11eb-9007-f025f08a2473.png"></code>
-<code><img height="40" width="40" alt="Flutter" src="https://user-images.githubusercontent.com/25126281/139685812-17ed9efa-75c4-4e99-8b7d-a075747f670e.png"></code>
-
