@@ -5,8 +5,6 @@
 
 🔬 I’m a Software Developer at the American Physical Society
 
-📱 Last year I released a personal project on the Apple App Store - search for Ketchup: Media Watchlist
- 
 💬 Ask me about being a theatre performer in NYC
 
 😄 Pronouns: He/him
@@ -15,6 +13,7 @@
 
 📋 Past side projects made for friends and family include:
 - An SMS-integrated to-do app with persistent reminders,
+- Flutter app as a media diary. Search Apple App Store for "Ketchup: Media Watchlist",
 - Solver app for NYT's word game "Spelling Bee",
 - Personal cannabis diary/encyclopedia,
 - Companion app to a live Easter egg hunt,
